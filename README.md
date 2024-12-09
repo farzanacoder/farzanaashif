@@ -27,20 +27,18 @@ As a front-end web developer, I'm passionate about creating flawless websites th
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farzanacoder)](https://github.com/anuraghazra/github-readme-stats)
 
-### 🍵 Connect with me!
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/farzanacoder) 
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://web.facebook.com/profile.php?id=61569364760662&mibextid=ZbWKwL)  
-
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=farzanacoder&show_icons=true&count_private=true)  
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=farzanacoder)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=farzanacoder)  
 
+
+#### 🍵 Connect with me!
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/farzanacoder) 
+
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://web.facebook.com/profile.php?id=61569364760662&mibextid=ZbWKwL)  
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/farzanacoder/contributions?format=svg&private=true)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=farzanacoder)](https://github.com/ryo-ma/github-profile-trophy)
+
 

@@ -10,11 +10,15 @@ As a front-end web developer, I'm passionate about creating flawless websites th
 
 ### 👨‍💻 Skills & Experiance:
 
-✔️ HTML5 / CSS3 / SASS / Bootstrap
-✔️ JavaScript
-✔️ WordPress
-✔️ PHP
-✔️ Photoshop
+☑️ HTML5 / CSS3 / SASS / Bootstrap
+
+☑️ JavaScript
+
+☑️ WordPress
+
+☑️ PHP
+
+☑️ Photoshop
 
 - 🔭 I’m currently working on responsive website. 
 - 🌱 I’m currently learning JavaScript 

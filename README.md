@@ -1,14 +1,14 @@
 ### Hi there 👋, I'm Farzana Islam
 ![Web Developer](https://scontent.fdac96-1.fna.fbcdn.net/v/t39.30808-6/468300333_122106995960645492_8152662826601013156_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeF64fVj-nni2hWET2S6vaQUmFvXazolnyiYW9drOiWfKJ4xb1teYmn3JFf6gCafH8_0aLya7rVaYY5l_L8HoqEe&_nc_ohc=tvsUbai9RVAQ7kNvgG9I_Gc&_nc_zt=23&_nc_ht=scontent.fdac96-1.fna&_nc_gid=ADbYxb4giR_Tw7oK6VHorb5&oh=00_AYDGA2dHV6d8pxJIyX5PvOFJgzlMqLDjVchTW60Mxcif0g&oe=675C57E8)
-👸## Web Developer
+## 👸 Web Developer
 
-📝##Love to write code
+## 📝 Love to write code
 
-###🎀 About Me
+### 🎀 About Me
 
 As a front-end web developer, I'm passionate about creating flawless websites that satisfy every client.I enjoy finding solutions to practical issues. I always work with an end goal in mind since I am strategic and goal-oriented. I take great satisfaction in doing high-quality work and communicating effectively. Although I work with WordPress most of the time, I also like working with PHP, JavaScript, and ReactJS.
 
-###👨‍💻 Skills & Experiance:
+### 👨‍💻 Skills & Experiance:
 
 ✔️ HTML5 / CSS3 / SASS / Bootstrap
 ✔️ JavaScript

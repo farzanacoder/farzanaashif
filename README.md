@@ -1,4 +1,6 @@
 ### Hi there 👋, I'm Farzana Islam
+![image](https://github.com/user-attachments/assets/aaf91294-34e5-43dd-b1de-f56f2cb9029f)
+
 ![Web Developer](https://scontent.fdac96-1.fna.fbcdn.net/v/t39.30808-6/468300333_122106995960645492_8152662826601013156_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeF64fVj-nni2hWET2S6vaQUmFvXazolnyiYW9drOiWfKJ4xb1teYmn3JFf6gCafH8_0aLya7rVaYY5l_L8HoqEe&_nc_ohc=tvsUbai9RVAQ7kNvgG9I_Gc&_nc_zt=23&_nc_ht=scontent.fdac96-1.fna&_nc_gid=ADbYxb4giR_Tw7oK6VHorb5&oh=00_AYDGA2dHV6d8pxJIyX5PvOFJgzlMqLDjVchTW60Mxcif0g&oe=675C57E8)
 ## 👸 Web Developer
 
